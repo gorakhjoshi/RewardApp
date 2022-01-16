@@ -1,0 +1,226 @@
+[
+  {
+    "id": "gorakh-raj-joshi",
+    "name": "Gorakh Raj",
+    "lastName": "Joshi",
+    "emailAddress": "gorakh@gmail.com",
+    "purchases": [
+      {
+        "date": "01/1/2021",
+        "product": "Amazon Kindle",
+        "unitPrice": "70.72"
+      },
+      {
+        "date": "02/9/2021",
+        "product": "Audio Highway Listen Up",
+        "unitPrice": "10.57"
+      },
+      {
+        "date": "03/4/2021",
+        "product": "Diamond Rio PMP300",
+        "unitPrice": "197.34"
+      },
+      {
+        "date": "04/25/2021",
+        "product": "Genica GN803 Tavarua,",
+        "unitPrice": "207.93"
+      }
+    ]
+  },
+  {
+    "id": "abhinav-benjankar",
+    "name": "Abhinav",
+    "lastName": "Benjankar",
+    "emailAddress": "abhinav@gmail.com",
+    "purchases": [
+      {
+        "date": "01/1/2021",
+        "product": "Amazon Kindle",
+        "unitPrice": "730.72"
+      },
+      {
+        "date": "02/9/2021",
+        "product": "Audio Highway Listen Up",
+        "unitPrice": "10.57"
+      },
+      {
+        "date": "03/4/2021",
+        "product": "Diamond Rio PMP300",
+        "unitPrice": "1937.34"
+      },
+      {
+        "date": "04/25/2021",
+        "product": "Genica GN803 Tavarua,",
+        "unitPrice": "2037.93"
+      }
+    ]
+  },
+  {
+    "id": "gangadhar-ranjan",
+    "name": "Gangadhar",
+    "lastName": "Ranjan",
+    "emailAddress": "gangadhar@gmail.com",
+    "purchases": [
+      {
+        "date": "01/1/2021",
+        "product": "Amazon Kindle",
+        "unitPrice": "730.72"
+      },
+      {
+        "date": "02/9/2021",
+        "product": "Audio Highway Listen Up",
+        "unitPrice": "10.57"
+      },
+      {
+        "date": "03/4/2021",
+        "product": "Diamond Rio PMP300",
+        "unitPrice": "17.34"
+      },
+      {
+        "date": "04/25/2021",
+        "product": "Genica GN803 Tavarua,",
+        "unitPrice": "207.93"
+      }
+    ]
+  },
+  {
+    "id": "parakram-sunuwar",
+    "name": "Parakram",
+    "lastName": "Sunuwar",
+    "emailAddress": "parakram@gmail.com",
+    "purchases": [
+      {
+        "date": "01/1/2021",
+        "product": "Amazon Kindle",
+        "unitPrice": "730.72"
+      },
+      {
+        "date": "02/9/2021",
+        "product": "Audio Highway Listen Up",
+        "unitPrice": "10.57"
+      },
+      {
+        "date": "03/4/2021",
+        "product": "Diamond Rio PMP300",
+        "unitPrice": "1937.34"
+      },
+      {
+        "date": "04/25/2021",
+        "product": "Genica GN803 Tavarua,",
+        "unitPrice": "207.93"
+      }
+    ]
+  },
+  {
+    "id": "indrajeet-danuwar",
+    "name": "Indrajeet",
+    "lastName": "Danuwar",
+    "emailAddress": "indrajeet@gmail.com",
+    "purchases": [
+      {
+        "date": "01/1/2021",
+        "product": "Amazon Kindle",
+        "unitPrice": "7.72"
+      },
+      {
+        "date": "02/9/2021",
+        "product": "Audio Highway Listen Up",
+        "unitPrice": "10.57"
+      },
+      {
+        "date": "03/4/2021",
+        "product": "Diamond Rio PMP300",
+        "unitPrice": "197.34"
+      },
+      {
+        "date": "04/25/2021",
+        "product": "Genica GN803 Tavarua,",
+        "unitPrice": "2037.93"
+      }
+    ]
+  },
+  {
+    "id": "pankaj-magar",
+    "name": "Pankaj",
+    "lastName": "Magar",
+    "emailAddress": "pankaj@gmail.com",
+    "purchases": [
+      {
+        "date": "01/1/2021",
+        "product": "Amazon Kindle",
+        "unitPrice": "730.72"
+      },
+      {
+        "date": "02/9/2021",
+        "product": "Audio Highway Listen Up",
+        "unitPrice": "10.57"
+      },
+      {
+        "date": "03/4/2021",
+        "product": "Diamond Rio PMP300",
+        "unitPrice": "1397.34"
+      },
+      {
+        "date": "04/25/2021",
+        "product": "Genica GN803 Tavarua,",
+        "unitPrice": "2307.93"
+      }
+    ]
+  },
+  {
+    "id": "madhukar-dhamala",
+    "name": "Madhukar",
+    "lastName": "Dhamala",
+    "emailAddress": "madhukar@gmail.com",
+    "purchases": [
+      {
+        "date": "01/1/2021",
+        "product": "Amazon Kindle",
+        "unitPrice": "7.72"
+      },
+      {
+        "date": "02/9/2021",
+        "product": "Audio Highway Listen Up",
+        "unitPrice": "130.57"
+      },
+      {
+        "date": "03/4/2021",
+        "product": "Diamond Rio PMP300",
+        "unitPrice": "197.34"
+      },
+      {
+        "date": "04/25/2021",
+        "product": "Genica GN803 Tavarua,",
+        "unitPrice": "207.93"
+      }
+    ]
+  },
+  {
+    "id": "sagar-rimal",
+    "name": "Sagar",
+    "lastName": "Rimal",
+    "emailAddress": "sagar@gmail.com",
+    "purchases": [
+      {
+        "date": "01/1/2021",
+        "product": "Amazon Kindle",
+        "unitPrice": "7.72"
+      },
+      {
+        "date": "02/9/2021",
+        "product": "Audio Highway Listen Up",
+        "unitPrice": "30.57"
+      },
+      {
+        "date": "03/4/2021",
+        "product": "Diamond Rio PMP300",
+        "unitPrice": "17.34"
+      },
+      {
+        "date": "04/25/2021",
+        "product": "Genica GN803 Tavarua,",
+        "unitPrice": "207.93"
+      }
+    ]
+  }
+]
